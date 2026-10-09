@@ -1,0 +1,21 @@
+AI Sentiment Analyzer - Sample Reviews
+======================================
+Copy any review below into the application and click "Analyze Sentiment".
+
+--- POSITIVE REVIEWS ---
+1. I really loved this product. It is excellent and amazing.
+2. Great quality, wonderful design and very helpful support. Highly recommended!
+3. The app is fantastic, easy to use and the interface is beautiful.
+4. Best purchase ever. Perfect size and I am very happy with it.
+
+--- NEGATIVE REVIEWS ---
+5. The product is terrible and disappointing.
+6. Awful experience. The delivery was slow and the item was broken.
+7. I hate this phone. It is a waste of money and totally useless.
+8. This is not good at all. Very poor quality.
+
+--- NEUTRAL REVIEWS ---
+9. The product is okay.
+10. I received the package on Monday and it came in a brown box.
+11. Good product but slow delivery.
+12. It is a laptop with a 15 inch screen.
